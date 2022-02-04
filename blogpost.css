@@ -2,16 +2,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   background-color: black;
-  color: blue;
+  color: white;
 }
 
 .lista {
   display: grid;
   align-items: center;
-}
-
-.lista li {
-  text-decoration: none;
+  list-style: none;
 }
 
 .html {
@@ -32,4 +29,47 @@ body {
   font-size: large;
   font-weight: bolder;
   color: yellow;
+}
+
+.python {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+  color: grey;
+}
+
+.codigo-img {
+  width: 50%;
+  height: 50%;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.html-doc {
+  padding: 24px;
+  margin: 24px;
+  color: red;
+  font-size: small;
+  text-align: justify;
+}
+
+.html-doc h1 {
+  position: absolute;
+  margin: 0px;
+}
+
+.css-doc {
+  padding: 24px;
+  margin: 24px;
+  color: lightblue;
+  font-size: small;
+  text-align: justify;
+}
+
+.javascript-doc {
+  padding: 24px;
+  margin: 24px;
+  color: yellow;
+  font-size: small;
+  text-align: justify;
 }
