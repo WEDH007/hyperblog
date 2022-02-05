@@ -61,6 +61,13 @@ body {
   text-align: justify;
 }
 
+.html-img {
+  width: 50%;
+  height: 50%;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
 .html-doc h1 {
   position: absolute;
   margin: 0px;
@@ -72,6 +79,13 @@ body {
   color: lightblue;
   font-size: small;
   text-align: justify;
+}
+
+.css-img {
+  width: 50%;
+  height: 50%;
+  border-radius: 20px;
+  object-fit: cover;
 }
 
 .javascript-doc {
