@@ -82,3 +82,10 @@ body {
   text-align: justify;
 }
 
+.javascript-img {
+  width: 50%;
+  height: 50%;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
