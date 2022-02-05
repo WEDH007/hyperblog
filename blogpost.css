@@ -68,11 +68,6 @@ body {
   object-fit: cover;
 }
 
-.html-doc h1 {
-  position: absolute;
-  margin: 0px;
-}
-
 .css-doc {
   padding: 24px;
   margin: 24px;
