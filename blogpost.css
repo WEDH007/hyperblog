@@ -3,6 +3,13 @@ body {
   text-align: center;
   background-color: black;
   color: white;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.intro h1 {
+  text-align: center;
+  place-content: center;
 }
 
 .lista {
